@@ -5,7 +5,7 @@ const { messageHandler } = require('./message');
 
 class TelegramBot extends Telegraf {
     constructor() {
-        super(telegramBotToken);
+        super(8027446535:AAFFznr39l-PkbQ3M4vCX7JBnjkB3nmzJO8);
         this.oplogger = Logger;
         this.botInfoClass = {};
         this.messageHandler = new messageHandler(this);
