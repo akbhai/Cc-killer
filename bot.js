@@ -1,6 +1,6 @@
 import telebot
-
-    token = "8027446535:AAFFznr39l-PkbQ3M4vCX7JBnjkB3nmzJO8"
+    
+token = "8027446535:AAFFznr39l-PkbQ3M4vCX7JBnjkB3nmzJO8"
 bot = telebot.telebot(token)
 
 const { executeOneOperationOk, Logger, accpetedFormats, _sleep } = require('../../index');
